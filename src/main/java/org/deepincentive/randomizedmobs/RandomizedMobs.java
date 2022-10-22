@@ -1,4 +1,4 @@
-package org.suddenclouds.randomizedmobs;
+package org.deepincentive.randomizedmobs;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;

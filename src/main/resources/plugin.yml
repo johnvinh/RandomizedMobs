@@ -1,4 +1,4 @@
 name: RandomizedMobs
 version: '${project.version}'
-main: org.suddenclouds.randomizedmobs.RandomizedMobs
+main: org.deepincentive.randomizedmobs.RandomizedMobs
 api-version: 1.19
